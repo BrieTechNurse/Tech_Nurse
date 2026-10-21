@@ -5,7 +5,7 @@ Welcome to my profile! I am a multidisciplinary professional bridging the gap be
 ---
 
 ### 🏥 Healthcare & Remote Operations
-- **BSc. Nursing Graduate:** Deep clinical understanding of anatomy, pathology, and healthcare workflows.
+- **BSc. Nursing :** Deep clinical understanding of anatomy, pathology, and healthcare workflows.
 - **Medical & Executive Virtual Assistant:** Elite skills in medical documentation, remote team organization, project tracking, and workflow optimization.
 
 ### 🤖 Advanced AI Training & Annotation Specialist
